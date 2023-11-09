@@ -1,0 +1,75 @@
+body
+{
+  background-color: #d8e2dc;
+  font-family: Nunito, sans-serif;
+}
+
+#mainNavbar .navbar-brand
+{
+  color: #22223b;
+  font-size: 2rem;
+}
+
+#mainNavbar
+{
+  font-size: 1.2rem;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+#mainNavbar .nav-link
+{
+  color: #003566;
+  /* background-color: #8ecae6; */
+}
+
+#mainNavbar .nav-link:hover
+{
+  color: #023047;
+}
+
+#groupedHeadings h2
+{
+  color: #22223b;
+  text-decoration: underline blue;
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+/* button margin */
+/* #add{
+   margin-left: 159px;
+} */
+.blurb h1
+{
+  color: #22223b;
+  font-weight: 100;
+  font-size: 3rem;
+}
+
+.blurb p
+{
+  color: #1b4965;
+  font-weight: 100;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+.content
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.scrolled
+{
+  background: #a3b18a;
+  transition: background 500ms;
+}
+
+@media(max-width: 1200px)
+{
+  text-decoration: underline;
+  font-weight: 100;
+  font-size: 2rems;
+}
